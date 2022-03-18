@@ -27,13 +27,13 @@
 <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/>
 </a>
 <a href="https://site.mockito.org/" target="_blank" rel="noreferrer">
-<img src="https://Mockito" alt="Mockito" width="40" height="40"/>
+<img src="https://github.com/mockito/mockito.github.io/raw/master/img/logo%402x.png" alt="Mockito" width="90" height="40"/>
 </a>
 <a href="https://junit.org/junit5/" target="_blank" rel="noreferrer">
-<img src="https://junit.org/junit5/" alt="JUnit" width="40" height="40"/>
+<img src="	https://junit.org/junit5/assets/img/junit5-logo.png" alt="JUnit" width="40" height="40"/>
 </a>
 <a href="https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/test/web/servlet/MockMvc.html" target="_blank" rel="noreferrer">
-<img src="https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/test/web/servlet/MockMvc.html" alt="MockMVC" width="40" height="40"/>
+<img src="https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/test/web/servlet/MockMvc.html" alt="Spring MockMVC" width="40" height="40"/>
 </a>
 
 <h3 align="left">Cloud:</h3>
@@ -82,7 +82,7 @@
 <img align="center" alt="VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg">
 </a>
 <a href="hthttps://www.jetbrains.com/pt-br/idea/" target="_blank" rel="noreferrer">
-<img align="center" alt="Intellij" height="30" width="40" src="https://www.jetbrains.com/pt-br/idea/">
+<img align="center" alt="Intellij" height="30" width="40" src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-icon.svg">
 </a>
 
 <h3 align="left">Operational systems:</h3>
