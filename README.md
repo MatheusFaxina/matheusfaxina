@@ -3,11 +3,6 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=matheusfaxina" alt="matheusfaxina" /></a> </p> -->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/matheusvfaxina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matheusvfaxina" height="30" width="40" /></a>
-</p>
-
 <h3 align="left">Languages:</h3>
 <a href="https://www.java.com" target="_blank" rel="noreferrer">
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
@@ -115,5 +110,13 @@
 <img src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-official.svg" alt="Bitbucket" width="40" height="40"/>
 </a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=matheusfaxina&show_icons=true&locale=en&layout=compact" alt="matheusfaxina" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=matheusfaxina&show_icons=true&locale=en" alt="matheusfaxina" /></p>
+</br></br>
+
+[//]: # (<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=matheusfaxina&show_icons=true&locale=en&layout=compact" alt="matheusfaxina" /></p>)
+
+[//]: # (<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=matheusfaxina&show_icons=true&locale=en" alt="matheusfaxina" /></p>)
+
+<div>    
+    <a href = "mailto:matheus.vfaxina@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://linkedin.com/in/matheusvfaxina" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+</div>
