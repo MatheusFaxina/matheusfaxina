@@ -9,6 +9,8 @@
 </a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+<a href="https://www.typescriptlang.org/](https://kotlinlang.org/" target="_blank" rel="noreferrer">
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/>
 </a>
 
 <h3 align="left">Frameworks:</h3>
@@ -30,10 +32,7 @@
 <img src="https://github.com/mockito/mockito.github.io/raw/master/img/logo%402x.png" alt="Mockito" width="90" height="40"/>
 </a>
 <a href="https://junit.org/junit5/" target="_blank" rel="noreferrer">
-<img src="	https://junit.org/junit5/assets/img/junit5-logo.png" alt="JUnit" width="40" height="40"/>
-</a>
-<a href="https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/test/web/servlet/MockMvc.html" target="_blank" rel="noreferrer">
-<img src="https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/test/web/servlet/MockMvc.html" alt="Spring MockMVC" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-line-wordmark.svg" alt="JUnit" width="40" height="40"/>
 </a>
 
 <h3 align="left">Cloud:</h3>
